@@ -1,0 +1,2174 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "_id": "65286918631dd174b4494de9",
+            "nameEn": "Cairo",
+            "nameAr": "القاهرة",
+            "cities": [
+                {
+                    "nameEn": "15 May",
+                    "nameAr": "15 مايو",
+                    "_id": "65286918631dd174b4494dea"
+                },
+                {
+                    "nameEn": "Al Azbakeyah",
+                    "nameAr": "الازبكية",
+                    "_id": "65286918631dd174b4494deb"
+                },
+                {
+                    "nameEn": "Al Basatin",
+                    "nameAr": "البساتين",
+                    "_id": "65286918631dd174b4494dec"
+                },
+                {
+                    "nameEn": "Tebin",
+                    "nameAr": "التبين",
+                    "_id": "65286918631dd174b4494ded"
+                },
+                {
+                    "nameEn": "El-Khalifa",
+                    "nameAr": "الخليفة",
+                    "_id": "65286918631dd174b4494dee"
+                },
+                {
+                    "nameEn": "El darrasa",
+                    "nameAr": "الدراسة",
+                    "_id": "65286918631dd174b4494def"
+                },
+                {
+                    "nameEn": "Aldarb Alahmar",
+                    "nameAr": "الدرب الاحمر",
+                    "_id": "65286918631dd174b4494df0"
+                },
+                {
+                    "nameEn": "Zawya al-Hamra",
+                    "nameAr": "الزاوية الحمراء",
+                    "_id": "65286918631dd174b4494df1"
+                },
+                {
+                    "nameEn": "El-Zaytoun",
+                    "nameAr": "الزيتون",
+                    "_id": "65286918631dd174b4494df2"
+                },
+                {
+                    "nameEn": "Sahel",
+                    "nameAr": "الساحل",
+                    "_id": "65286918631dd174b4494df3"
+                },
+                {
+                    "nameEn": "El Salam",
+                    "nameAr": "السلام",
+                    "_id": "65286918631dd174b4494df4"
+                },
+                {
+                    "nameEn": "Sayeda Zeinab",
+                    "nameAr": "السيدة زينب",
+                    "_id": "65286918631dd174b4494df5"
+                },
+                {
+                    "nameEn": "El Sharabeya",
+                    "nameAr": "الشرابية",
+                    "_id": "65286918631dd174b4494df6"
+                },
+                {
+                    "nameEn": "Shorouk",
+                    "nameAr": "مدينة الشروق",
+                    "_id": "65286918631dd174b4494df7"
+                },
+                {
+                    "nameEn": "El Daher",
+                    "nameAr": "الظاهر",
+                    "_id": "65286918631dd174b4494df8"
+                },
+                {
+                    "nameEn": "Ataba",
+                    "nameAr": "العتبة",
+                    "_id": "65286918631dd174b4494df9"
+                },
+                {
+                    "nameEn": "New Cairo",
+                    "nameAr": "القاهرة الجديدة",
+                    "_id": "65286918631dd174b4494dfa"
+                },
+                {
+                    "nameEn": "El Marg",
+                    "nameAr": "المرج",
+                    "_id": "65286918631dd174b4494dfb"
+                },
+                {
+                    "nameEn": "Ezbet el Nakhl",
+                    "nameAr": "عزبة النخل",
+                    "_id": "65286918631dd174b4494dfc"
+                },
+                {
+                    "nameEn": "Matareya",
+                    "nameAr": "المطرية",
+                    "_id": "65286918631dd174b4494dfd"
+                },
+                {
+                    "nameEn": "Maadi",
+                    "nameAr": "المعادى",
+                    "_id": "65286918631dd174b4494dfe"
+                },
+                {
+                    "nameEn": "Maasara",
+                    "nameAr": "المعصرة",
+                    "_id": "65286918631dd174b4494dff"
+                },
+                {
+                    "nameEn": "Mokattam",
+                    "nameAr": "المقطم",
+                    "_id": "65286918631dd174b4494e00"
+                },
+                {
+                    "nameEn": "Manyal",
+                    "nameAr": "المنيل",
+                    "_id": "65286918631dd174b4494e01"
+                },
+                {
+                    "nameEn": "Mosky",
+                    "nameAr": "الموسكى",
+                    "_id": "65286918631dd174b4494e02"
+                },
+                {
+                    "nameEn": "Nozha",
+                    "nameAr": "النزهة",
+                    "_id": "65286918631dd174b4494e03"
+                },
+                {
+                    "nameEn": "Waily",
+                    "nameAr": "الوايلى",
+                    "_id": "65286918631dd174b4494e04"
+                },
+                {
+                    "nameEn": "Bab al-Shereia",
+                    "nameAr": "باب الشعرية",
+                    "_id": "65286918631dd174b4494e05"
+                },
+                {
+                    "nameEn": "Bolaq",
+                    "nameAr": "بولاق",
+                    "_id": "65286918631dd174b4494e06"
+                },
+                {
+                    "nameEn": "Garden City",
+                    "nameAr": "جاردن سيتى",
+                    "_id": "65286918631dd174b4494e07"
+                },
+                {
+                    "nameEn": "Hadayek El-Kobba",
+                    "nameAr": "حدائق القبة",
+                    "_id": "65286918631dd174b4494e08"
+                },
+                {
+                    "nameEn": "Helwan",
+                    "nameAr": "حلوان",
+                    "_id": "65286918631dd174b4494e09"
+                },
+                {
+                    "nameEn": "Dar Al Salam",
+                    "nameAr": "دار السلام",
+                    "_id": "65286918631dd174b4494e0a"
+                },
+                {
+                    "nameEn": "Shubra",
+                    "nameAr": "شبرا",
+                    "_id": "65286918631dd174b4494e0b"
+                },
+                {
+                    "nameEn": "Tura",
+                    "nameAr": "طره",
+                    "_id": "65286918631dd174b4494e0c"
+                },
+                {
+                    "nameEn": "Abdeen",
+                    "nameAr": "عابدين",
+                    "_id": "65286918631dd174b4494e0d"
+                },
+                {
+                    "nameEn": "Abaseya",
+                    "nameAr": "عباسية",
+                    "_id": "65286918631dd174b4494e0e"
+                },
+                {
+                    "nameEn": "Ain Shams",
+                    "nameAr": "عين شمس",
+                    "_id": "65286918631dd174b4494e0f"
+                },
+                {
+                    "nameEn": "Nasr City",
+                    "nameAr": "مدينة نصر",
+                    "_id": "65286918631dd174b4494e10"
+                },
+                {
+                    "nameEn": "New Heliopolis",
+                    "nameAr": "مصر الجديدة",
+                    "_id": "65286918631dd174b4494e11"
+                },
+                {
+                    "nameEn": "Masr Al Qadima",
+                    "nameAr": "مصر القديمة",
+                    "_id": "65286918631dd174b4494e12"
+                },
+                {
+                    "nameEn": "Mansheya Nasir",
+                    "nameAr": "منشية ناصر",
+                    "_id": "65286918631dd174b4494e13"
+                },
+                {
+                    "nameEn": "Badr City",
+                    "nameAr": "مدينة بدر",
+                    "_id": "65286918631dd174b4494e14"
+                },
+                {
+                    "nameEn": "Obour City",
+                    "nameAr": "مدينة العبور",
+                    "_id": "65286918631dd174b4494e15"
+                },
+                {
+                    "nameEn": "Cairo Downtown",
+                    "nameAr": "وسط البلد",
+                    "_id": "65286918631dd174b4494e16"
+                },
+                {
+                    "nameEn": "Zamalek",
+                    "nameAr": "الزمالك",
+                    "_id": "65286918631dd174b4494e17"
+                },
+                {
+                    "nameEn": "Kasr El Nile",
+                    "nameAr": "قصر النيل",
+                    "_id": "65286918631dd174b4494e18"
+                },
+                {
+                    "nameEn": "Rehab",
+                    "nameAr": "الرحاب",
+                    "_id": "65286918631dd174b4494e19"
+                },
+                {
+                    "nameEn": "Katameya",
+                    "nameAr": "القطامية",
+                    "_id": "65286918631dd174b4494e1a"
+                },
+                {
+                    "nameEn": "Madinty",
+                    "nameAr": "مدينتي",
+                    "_id": "65286918631dd174b4494e1b"
+                },
+                {
+                    "nameEn": "Rod Alfarag",
+                    "nameAr": "روض الفرج",
+                    "_id": "65286918631dd174b4494e1c"
+                },
+                {
+                    "nameEn": "Sheraton",
+                    "nameAr": "شيراتون",
+                    "_id": "65286918631dd174b4494e1d"
+                },
+                {
+                    "nameEn": "El-Gamaleya",
+                    "nameAr": "الجمالية",
+                    "_id": "65286918631dd174b4494e1e"
+                },
+                {
+                    "nameEn": "10th of Ramadan City",
+                    "nameAr": "العاشر من رمضان",
+                    "_id": "65286918631dd174b4494e1f"
+                },
+                {
+                    "nameEn": "Helmeyat Alzaytoun",
+                    "nameAr": "الحلمية",
+                    "_id": "65286918631dd174b4494e20"
+                },
+                {
+                    "nameEn": "New Nozha",
+                    "nameAr": "النزهة الجديدة",
+                    "_id": "65286918631dd174b4494e21"
+                },
+                {
+                    "nameEn": "Capital New",
+                    "nameAr": "العاصمة الإدارية",
+                    "_id": "65286918631dd174b4494e22"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494e23",
+            "nameEn": "Giza",
+            "nameAr": "الجيزة",
+            "cities": [
+                {
+                    "nameEn": "Giza",
+                    "nameAr": "الجيزة",
+                    "_id": "65286918631dd174b4494e24"
+                },
+                {
+                    "nameEn": "Sixth of October",
+                    "nameAr": "السادس من أكتوبر",
+                    "_id": "65286918631dd174b4494e25"
+                },
+                {
+                    "nameEn": "Cheikh Zayed",
+                    "nameAr": "الشيخ زايد",
+                    "_id": "65286918631dd174b4494e26"
+                },
+                {
+                    "nameEn": "Hawamdiyah",
+                    "nameAr": "الحوامدية",
+                    "_id": "65286918631dd174b4494e27"
+                },
+                {
+                    "nameEn": "Al Badrasheen",
+                    "nameAr": "البدرشين",
+                    "_id": "65286918631dd174b4494e28"
+                },
+                {
+                    "nameEn": "Saf",
+                    "nameAr": "الصف",
+                    "_id": "65286918631dd174b4494e29"
+                },
+                {
+                    "nameEn": "Atfih",
+                    "nameAr": "أطفيح",
+                    "_id": "65286918631dd174b4494e2a"
+                },
+                {
+                    "nameEn": "Al Ayat",
+                    "nameAr": "العياط",
+                    "_id": "65286918631dd174b4494e2b"
+                },
+                {
+                    "nameEn": "Al-Bawaiti",
+                    "nameAr": "الباويطي",
+                    "_id": "65286918631dd174b4494e2c"
+                },
+                {
+                    "nameEn": "ManshiyetAl Qanater",
+                    "nameAr": "منشأة القناطر",
+                    "_id": "65286918631dd174b4494e2d"
+                },
+                {
+                    "nameEn": "Oaseem",
+                    "nameAr": "أوسيم",
+                    "_id": "65286918631dd174b4494e2e"
+                },
+                {
+                    "nameEn": "Kerdasa",
+                    "nameAr": "كرداسة",
+                    "_id": "65286918631dd174b4494e2f"
+                },
+                {
+                    "nameEn": "Abu Nomros",
+                    "nameAr": "أبو النمرس",
+                    "_id": "65286918631dd174b4494e30"
+                },
+                {
+                    "nameEn": "Kafr Ghati",
+                    "nameAr": "كفر غطاطي",
+                    "_id": "65286918631dd174b4494e31"
+                },
+                {
+                    "nameEn": "Manshiyet Al Bakari",
+                    "nameAr": "منشأة البكاري",
+                    "_id": "65286918631dd174b4494e32"
+                },
+                {
+                    "nameEn": "Dokki",
+                    "nameAr": "الدقى",
+                    "_id": "65286918631dd174b4494e33"
+                },
+                {
+                    "nameEn": "Agouza",
+                    "nameAr": "العجوزة",
+                    "_id": "65286918631dd174b4494e34"
+                },
+                {
+                    "nameEn": "Haram",
+                    "nameAr": "الهرم",
+                    "_id": "65286918631dd174b4494e35"
+                },
+                {
+                    "nameEn": "Warraq",
+                    "nameAr": "الوراق",
+                    "_id": "65286918631dd174b4494e36"
+                },
+                {
+                    "nameEn": "Imbaba",
+                    "nameAr": "امبابة",
+                    "_id": "65286918631dd174b4494e37"
+                },
+                {
+                    "nameEn": "Boulaq Dakrour",
+                    "nameAr": "بولاق الدكرور",
+                    "_id": "65286918631dd174b4494e38"
+                },
+                {
+                    "nameEn": "Al Wahat Al Baharia",
+                    "nameAr": "الواحات البحرية",
+                    "_id": "65286918631dd174b4494e39"
+                },
+                {
+                    "nameEn": "Omraneya",
+                    "nameAr": "العمرانية",
+                    "_id": "65286918631dd174b4494e3a"
+                },
+                {
+                    "nameEn": "Moneeb",
+                    "nameAr": "المنيب",
+                    "_id": "65286918631dd174b4494e3b"
+                },
+                {
+                    "nameEn": "Bin Alsarayat",
+                    "nameAr": "بين السرايات",
+                    "_id": "65286918631dd174b4494e3c"
+                },
+                {
+                    "nameEn": "Kit Kat",
+                    "nameAr": "الكيت كات",
+                    "_id": "65286918631dd174b4494e3d"
+                },
+                {
+                    "nameEn": "Mohandessin",
+                    "nameAr": "المهندسين",
+                    "_id": "65286918631dd174b4494e3e"
+                },
+                {
+                    "nameEn": "Faisal",
+                    "nameAr": "فيصل",
+                    "_id": "65286918631dd174b4494e3f"
+                },
+                {
+                    "nameEn": "Abu Rawash",
+                    "nameAr": "أبو رواش",
+                    "_id": "65286918631dd174b4494e40"
+                },
+                {
+                    "nameEn": "Hadayek Alahram",
+                    "nameAr": "حدائق الأهرام",
+                    "_id": "65286918631dd174b4494e41"
+                },
+                {
+                    "nameEn": "Haraneya",
+                    "nameAr": "الحرانية",
+                    "_id": "65286918631dd174b4494e42"
+                },
+                {
+                    "nameEn": "Hadayek October",
+                    "nameAr": "حدائق اكتوبر",
+                    "_id": "65286918631dd174b4494e43"
+                },
+                {
+                    "nameEn": "Saft Allaban",
+                    "nameAr": "صفط اللبن",
+                    "_id": "65286918631dd174b4494e44"
+                },
+                {
+                    "nameEn": "Smart Village",
+                    "nameAr": "القرية الذكية",
+                    "_id": "65286918631dd174b4494e45"
+                },
+                {
+                    "nameEn": "Ard Ellwaa",
+                    "nameAr": "ارض اللواء",
+                    "_id": "65286918631dd174b4494e46"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494e47",
+            "nameEn": "Alexandria",
+            "nameAr": "الأسكندرية",
+            "cities": [
+                {
+                    "nameEn": "Abu Qir",
+                    "nameAr": "ابو قير",
+                    "_id": "65286918631dd174b4494e48"
+                },
+                {
+                    "nameEn": "Al Ibrahimeyah",
+                    "nameAr": "الابراهيمية",
+                    "_id": "65286918631dd174b4494e49"
+                },
+                {
+                    "nameEn": "Azarita",
+                    "nameAr": "الأزاريطة",
+                    "_id": "65286918631dd174b4494e4a"
+                },
+                {
+                    "nameEn": "Anfoushi",
+                    "nameAr": "الانفوشى",
+                    "_id": "65286918631dd174b4494e4b"
+                },
+                {
+                    "nameEn": "Dekheila",
+                    "nameAr": "الدخيلة",
+                    "_id": "65286918631dd174b4494e4c"
+                },
+                {
+                    "nameEn": "El Soyof",
+                    "nameAr": "السيوف",
+                    "_id": "65286918631dd174b4494e4d"
+                },
+                {
+                    "nameEn": "Ameria",
+                    "nameAr": "العامرية",
+                    "_id": "65286918631dd174b4494e4e"
+                },
+                {
+                    "nameEn": "El Labban",
+                    "nameAr": "اللبان",
+                    "_id": "65286918631dd174b4494e4f"
+                },
+                {
+                    "nameEn": "Al Mafrouza",
+                    "nameAr": "المفروزة",
+                    "_id": "65286918631dd174b4494e50"
+                },
+                {
+                    "nameEn": "El Montaza",
+                    "nameAr": "المنتزه",
+                    "_id": "65286918631dd174b4494e51"
+                },
+                {
+                    "nameEn": "Mansheya",
+                    "nameAr": "المنشية",
+                    "_id": "65286918631dd174b4494e52"
+                },
+                {
+                    "nameEn": "Naseria",
+                    "nameAr": "الناصرية",
+                    "_id": "65286918631dd174b4494e53"
+                },
+                {
+                    "nameEn": "Ambrozo",
+                    "nameAr": "امبروزو",
+                    "_id": "65286918631dd174b4494e54"
+                },
+                {
+                    "nameEn": "Bab Sharq",
+                    "nameAr": "باب شرق",
+                    "_id": "65286918631dd174b4494e55"
+                },
+                {
+                    "nameEn": "Bourj Alarab",
+                    "nameAr": "برج العرب",
+                    "_id": "65286918631dd174b4494e56"
+                },
+                {
+                    "nameEn": "Stanley",
+                    "nameAr": "ستانلى",
+                    "_id": "65286918631dd174b4494e57"
+                },
+                {
+                    "nameEn": "Smouha",
+                    "nameAr": "سموحة",
+                    "_id": "65286918631dd174b4494e58"
+                },
+                {
+                    "nameEn": "Sidi Bishr",
+                    "nameAr": "سيدى بشر",
+                    "_id": "65286918631dd174b4494e59"
+                },
+                {
+                    "nameEn": "Shads",
+                    "nameAr": "شدس",
+                    "_id": "65286918631dd174b4494e5a"
+                },
+                {
+                    "nameEn": "Gheet Alenab",
+                    "nameAr": "غيط العنب",
+                    "_id": "65286918631dd174b4494e5b"
+                },
+                {
+                    "nameEn": "Fleming",
+                    "nameAr": "فلمينج",
+                    "_id": "65286918631dd174b4494e5c"
+                },
+                {
+                    "nameEn": "Victoria",
+                    "nameAr": "فيكتوريا",
+                    "_id": "65286918631dd174b4494e5d"
+                },
+                {
+                    "nameEn": "Camp Shizar",
+                    "nameAr": "كامب شيزار",
+                    "_id": "65286918631dd174b4494e5e"
+                },
+                {
+                    "nameEn": "Karmooz",
+                    "nameAr": "كرموز",
+                    "_id": "65286918631dd174b4494e5f"
+                },
+                {
+                    "nameEn": "Mahta Alraml",
+                    "nameAr": "محطة الرمل",
+                    "_id": "65286918631dd174b4494e60"
+                },
+                {
+                    "nameEn": "Mina El-Basal",
+                    "nameAr": "مينا البصل",
+                    "_id": "65286918631dd174b4494e61"
+                },
+                {
+                    "nameEn": "Asafra",
+                    "nameAr": "العصافرة",
+                    "_id": "65286918631dd174b4494e62"
+                },
+                {
+                    "nameEn": "Agamy",
+                    "nameAr": "العجمي",
+                    "_id": "65286918631dd174b4494e63"
+                },
+                {
+                    "nameEn": "Bakos",
+                    "nameAr": "بكوس",
+                    "_id": "65286918631dd174b4494e64"
+                },
+                {
+                    "nameEn": "Boulkly",
+                    "nameAr": "بولكلي",
+                    "_id": "65286918631dd174b4494e65"
+                },
+                {
+                    "nameEn": "Cleopatra",
+                    "nameAr": "كليوباترا",
+                    "_id": "65286918631dd174b4494e66"
+                },
+                {
+                    "nameEn": "Glim",
+                    "nameAr": "جليم",
+                    "_id": "65286918631dd174b4494e67"
+                },
+                {
+                    "nameEn": "Al Mamurah",
+                    "nameAr": "المعمورة",
+                    "_id": "65286918631dd174b4494e68"
+                },
+                {
+                    "nameEn": "Al Mandara",
+                    "nameAr": "المندرة",
+                    "_id": "65286918631dd174b4494e69"
+                },
+                {
+                    "nameEn": "Moharam Bek",
+                    "nameAr": "محرم بك",
+                    "_id": "65286918631dd174b4494e6a"
+                },
+                {
+                    "nameEn": "Elshatby",
+                    "nameAr": "الشاطبي",
+                    "_id": "65286918631dd174b4494e6b"
+                },
+                {
+                    "nameEn": "Sidi Gaber",
+                    "nameAr": "سيدي جابر",
+                    "_id": "65286918631dd174b4494e6c"
+                },
+                {
+                    "nameEn": "North Coast/sahel",
+                    "nameAr": "الساحل الشمالي",
+                    "_id": "65286918631dd174b4494e6d"
+                },
+                {
+                    "nameEn": "Alhadra",
+                    "nameAr": "الحضرة",
+                    "_id": "65286918631dd174b4494e6e"
+                },
+                {
+                    "nameEn": "Alattarin",
+                    "nameAr": "العطارين",
+                    "_id": "65286918631dd174b4494e6f"
+                },
+                {
+                    "nameEn": "Sidi Kerir",
+                    "nameAr": "سيدي كرير",
+                    "_id": "65286918631dd174b4494e70"
+                },
+                {
+                    "nameEn": "Elgomrok",
+                    "nameAr": "الجمرك",
+                    "_id": "65286918631dd174b4494e71"
+                },
+                {
+                    "nameEn": "Al Max",
+                    "nameAr": "المكس",
+                    "_id": "65286918631dd174b4494e72"
+                },
+                {
+                    "nameEn": "Marina",
+                    "nameAr": "مارينا",
+                    "_id": "65286918631dd174b4494e73"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494e74",
+            "nameEn": "Dakahlia",
+            "nameAr": "الدقهلية",
+            "cities": [
+                {
+                    "nameEn": "Mansoura",
+                    "nameAr": "المنصورة",
+                    "_id": "65286918631dd174b4494e75"
+                },
+                {
+                    "nameEn": "Talkha",
+                    "nameAr": "طلخا",
+                    "_id": "65286918631dd174b4494e76"
+                },
+                {
+                    "nameEn": "Mitt Ghamr",
+                    "nameAr": "ميت غمر",
+                    "_id": "65286918631dd174b4494e77"
+                },
+                {
+                    "nameEn": "Dekernes",
+                    "nameAr": "دكرنس",
+                    "_id": "65286918631dd174b4494e78"
+                },
+                {
+                    "nameEn": "Aga",
+                    "nameAr": "أجا",
+                    "_id": "65286918631dd174b4494e79"
+                },
+                {
+                    "nameEn": "Menia El Nasr",
+                    "nameAr": "منية النصر",
+                    "_id": "65286918631dd174b4494e7a"
+                },
+                {
+                    "nameEn": "Sinbillawin",
+                    "nameAr": "السنبلاوين",
+                    "_id": "65286918631dd174b4494e7b"
+                },
+                {
+                    "nameEn": "El Kurdi",
+                    "nameAr": "الكردي",
+                    "_id": "65286918631dd174b4494e7c"
+                },
+                {
+                    "nameEn": "Bani Ubaid",
+                    "nameAr": "بني عبيد",
+                    "_id": "65286918631dd174b4494e7d"
+                },
+                {
+                    "nameEn": "Al Manzala",
+                    "nameAr": "المنزلة",
+                    "_id": "65286918631dd174b4494e7e"
+                },
+                {
+                    "nameEn": "tami al'amdid",
+                    "nameAr": "تمي الأمديد",
+                    "_id": "65286918631dd174b4494e7f"
+                },
+                {
+                    "nameEn": "aljamalia",
+                    "nameAr": "الجمالية",
+                    "_id": "65286918631dd174b4494e80"
+                },
+                {
+                    "nameEn": "Sherbin",
+                    "nameAr": "شربين",
+                    "_id": "65286918631dd174b4494e81"
+                },
+                {
+                    "nameEn": "Mataria",
+                    "nameAr": "المطرية",
+                    "_id": "65286918631dd174b4494e82"
+                },
+                {
+                    "nameEn": "Belqas",
+                    "nameAr": "بلقاس",
+                    "_id": "65286918631dd174b4494e83"
+                },
+                {
+                    "nameEn": "Meet Salsil",
+                    "nameAr": "ميت سلسيل",
+                    "_id": "65286918631dd174b4494e84"
+                },
+                {
+                    "nameEn": "Gamasa",
+                    "nameAr": "جمصة",
+                    "_id": "65286918631dd174b4494e85"
+                },
+                {
+                    "nameEn": "Mahalat Damana",
+                    "nameAr": "محلة دمنة",
+                    "_id": "65286918631dd174b4494e86"
+                },
+                {
+                    "nameEn": "Nabroh",
+                    "nameAr": "نبروه",
+                    "_id": "65286918631dd174b4494e87"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494e88",
+            "nameEn": "Red Sea",
+            "nameAr": "البحر الأحمر",
+            "cities": [
+                {
+                    "nameEn": "Hurghada",
+                    "nameAr": "الغردقة",
+                    "_id": "65286918631dd174b4494e89"
+                },
+                {
+                    "nameEn": "Ras Ghareb",
+                    "nameAr": "رأس غارب",
+                    "_id": "65286918631dd174b4494e8a"
+                },
+                {
+                    "nameEn": "Safaga",
+                    "nameAr": "سفاجا",
+                    "_id": "65286918631dd174b4494e8b"
+                },
+                {
+                    "nameEn": "El Qusiar",
+                    "nameAr": "القصير",
+                    "_id": "65286918631dd174b4494e8c"
+                },
+                {
+                    "nameEn": "Marsa Alam",
+                    "nameAr": "مرسى علم",
+                    "_id": "65286918631dd174b4494e8d"
+                },
+                {
+                    "nameEn": "Shalatin",
+                    "nameAr": "الشلاتين",
+                    "_id": "65286918631dd174b4494e8e"
+                },
+                {
+                    "nameEn": "Halaib",
+                    "nameAr": "حلايب",
+                    "_id": "65286918631dd174b4494e8f"
+                },
+                {
+                    "nameEn": "Aldahar",
+                    "nameAr": "الدهار",
+                    "_id": "65286918631dd174b4494e90"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494e91",
+            "nameEn": "Beheira",
+            "nameAr": "البحيرة",
+            "cities": [
+                {
+                    "nameEn": "Damanhour",
+                    "nameAr": "دمنهور",
+                    "_id": "65286918631dd174b4494e92"
+                },
+                {
+                    "nameEn": "Kafr El Dawar",
+                    "nameAr": "كفر الدوار",
+                    "_id": "65286918631dd174b4494e93"
+                },
+                {
+                    "nameEn": "Rashid",
+                    "nameAr": "رشيد",
+                    "_id": "65286918631dd174b4494e94"
+                },
+                {
+                    "nameEn": "Edco",
+                    "nameAr": "إدكو",
+                    "_id": "65286918631dd174b4494e95"
+                },
+                {
+                    "nameEn": "Abu al-Matamir",
+                    "nameAr": "أبو المطامير",
+                    "_id": "65286918631dd174b4494e96"
+                },
+                {
+                    "nameEn": "Abu Homs",
+                    "nameAr": "أبو حمص",
+                    "_id": "65286918631dd174b4494e97"
+                },
+                {
+                    "nameEn": "Delengat",
+                    "nameAr": "الدلنجات",
+                    "_id": "65286918631dd174b4494e98"
+                },
+                {
+                    "nameEn": "Mahmoudiyah",
+                    "nameAr": "المحمودية",
+                    "_id": "65286918631dd174b4494e99"
+                },
+                {
+                    "nameEn": "Rahmaniyah",
+                    "nameAr": "الرحمانية",
+                    "_id": "65286918631dd174b4494e9a"
+                },
+                {
+                    "nameEn": "Itai Baroud",
+                    "nameAr": "إيتاي البارود",
+                    "_id": "65286918631dd174b4494e9b"
+                },
+                {
+                    "nameEn": "Housh Eissa",
+                    "nameAr": "حوش عيسى",
+                    "_id": "65286918631dd174b4494e9c"
+                },
+                {
+                    "nameEn": "Shubrakhit",
+                    "nameAr": "شبراخيت",
+                    "_id": "65286918631dd174b4494e9d"
+                },
+                {
+                    "nameEn": "Kom Hamada",
+                    "nameAr": "كوم حمادة",
+                    "_id": "65286918631dd174b4494e9e"
+                },
+                {
+                    "nameEn": "Badr",
+                    "nameAr": "بدر",
+                    "_id": "65286918631dd174b4494e9f"
+                },
+                {
+                    "nameEn": "Wadi Natrun",
+                    "nameAr": "وادي النطرون",
+                    "_id": "65286918631dd174b4494ea0"
+                },
+                {
+                    "nameEn": "New Nubaria",
+                    "nameAr": "النوبارية الجديدة",
+                    "_id": "65286918631dd174b4494ea1"
+                },
+                {
+                    "nameEn": "Alnoubareya",
+                    "nameAr": "النوبارية",
+                    "_id": "65286918631dd174b4494ea2"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494ea3",
+            "nameEn": "Fayoum",
+            "nameAr": "الفيوم",
+            "cities": [
+                {
+                    "nameEn": "Fayoum",
+                    "nameAr": "الفيوم",
+                    "_id": "65286918631dd174b4494ea4"
+                },
+                {
+                    "nameEn": "Fayoum El Gedida",
+                    "nameAr": "الفيوم الجديدة",
+                    "_id": "65286918631dd174b4494ea5"
+                },
+                {
+                    "nameEn": "Tamiya",
+                    "nameAr": "طامية",
+                    "_id": "65286918631dd174b4494ea6"
+                },
+                {
+                    "nameEn": "Snores",
+                    "nameAr": "سنورس",
+                    "_id": "65286918631dd174b4494ea7"
+                },
+                {
+                    "nameEn": "Etsa",
+                    "nameAr": "إطسا",
+                    "_id": "65286918631dd174b4494ea8"
+                },
+                {
+                    "nameEn": "Epschway",
+                    "nameAr": "إبشواي",
+                    "_id": "65286918631dd174b4494ea9"
+                },
+                {
+                    "nameEn": "Yusuf El Sediaq",
+                    "nameAr": "يوسف الصديق",
+                    "_id": "65286918631dd174b4494eaa"
+                },
+                {
+                    "nameEn": "Hadqa",
+                    "nameAr": "الحادقة",
+                    "_id": "65286918631dd174b4494eab"
+                },
+                {
+                    "nameEn": "Atsa",
+                    "nameAr": "اطسا",
+                    "_id": "65286918631dd174b4494eac"
+                },
+                {
+                    "nameEn": "Algamaa",
+                    "nameAr": "الجامعة",
+                    "_id": "65286918631dd174b4494ead"
+                },
+                {
+                    "nameEn": "Sayala",
+                    "nameAr": "السيالة",
+                    "_id": "65286918631dd174b4494eae"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494eaf",
+            "nameEn": "Gharbiya",
+            "nameAr": "الغربية",
+            "cities": [
+                {
+                    "nameEn": "Tanta",
+                    "nameAr": "طنطا",
+                    "_id": "65286918631dd174b4494eb0"
+                },
+                {
+                    "nameEn": "Al Mahalla Al Kobra",
+                    "nameAr": "المحلة الكبرى",
+                    "_id": "65286918631dd174b4494eb1"
+                },
+                {
+                    "nameEn": "Kafr El Zayat",
+                    "nameAr": "كفر الزيات",
+                    "_id": "65286918631dd174b4494eb2"
+                },
+                {
+                    "nameEn": "Zefta",
+                    "nameAr": "زفتى",
+                    "_id": "65286918631dd174b4494eb3"
+                },
+                {
+                    "nameEn": "El Santa",
+                    "nameAr": "السنطة",
+                    "_id": "65286918631dd174b4494eb4"
+                },
+                {
+                    "nameEn": "Qutour",
+                    "nameAr": "قطور",
+                    "_id": "65286918631dd174b4494eb5"
+                },
+                {
+                    "nameEn": "Basion",
+                    "nameAr": "بسيون",
+                    "_id": "65286918631dd174b4494eb6"
+                },
+                {
+                    "nameEn": "Samannoud",
+                    "nameAr": "سمنود",
+                    "_id": "65286918631dd174b4494eb7"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494eb8",
+            "nameEn": "Ismailia",
+            "nameAr": "الإسماعلية",
+            "cities": [
+                {
+                    "nameEn": "Ismailia",
+                    "nameAr": "الإسماعيلية",
+                    "_id": "65286918631dd174b4494eb9"
+                },
+                {
+                    "nameEn": "Fayed",
+                    "nameAr": "فايد",
+                    "_id": "65286918631dd174b4494eba"
+                },
+                {
+                    "nameEn": "Qantara Sharq",
+                    "nameAr": "القنطرة شرق",
+                    "_id": "65286918631dd174b4494ebb"
+                },
+                {
+                    "nameEn": "Qantara Gharb",
+                    "nameAr": "القنطرة غرب",
+                    "_id": "65286918631dd174b4494ebc"
+                },
+                {
+                    "nameEn": "El Tal El Kabier",
+                    "nameAr": "التل الكبير",
+                    "_id": "65286918631dd174b4494ebd"
+                },
+                {
+                    "nameEn": "Abu Sawir",
+                    "nameAr": "أبو صوير",
+                    "_id": "65286918631dd174b4494ebe"
+                },
+                {
+                    "nameEn": "Kasasien El Gedida",
+                    "nameAr": "القصاصين الجديدة",
+                    "_id": "65286918631dd174b4494ebf"
+                },
+                {
+                    "nameEn": "Nefesha",
+                    "nameAr": "نفيشة",
+                    "_id": "65286918631dd174b4494ec0"
+                },
+                {
+                    "nameEn": "Sheikh Zayed",
+                    "nameAr": "الشيخ زايد",
+                    "_id": "65286918631dd174b4494ec1"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494ec2",
+            "nameEn": "Menofia",
+            "nameAr": "المنوفية",
+            "cities": [
+                {
+                    "nameEn": "Shbeen El Koom",
+                    "nameAr": "شبين الكوم",
+                    "_id": "65286918631dd174b4494ec3"
+                },
+                {
+                    "nameEn": "Sadat City",
+                    "nameAr": "مدينة السادات",
+                    "_id": "65286918631dd174b4494ec4"
+                },
+                {
+                    "nameEn": "Menouf",
+                    "nameAr": "منوف",
+                    "_id": "65286918631dd174b4494ec5"
+                },
+                {
+                    "nameEn": "Sars El-Layan",
+                    "nameAr": "سرس الليان",
+                    "_id": "65286918631dd174b4494ec6"
+                },
+                {
+                    "nameEn": "Ashmon",
+                    "nameAr": "أشمون",
+                    "_id": "65286918631dd174b4494ec7"
+                },
+                {
+                    "nameEn": "Al Bagor",
+                    "nameAr": "الباجور",
+                    "_id": "65286918631dd174b4494ec8"
+                },
+                {
+                    "nameEn": "Quesna",
+                    "nameAr": "قويسنا",
+                    "_id": "65286918631dd174b4494ec9"
+                },
+                {
+                    "nameEn": "Berkat El Saba",
+                    "nameAr": "بركة السبع",
+                    "_id": "65286918631dd174b4494eca"
+                },
+                {
+                    "nameEn": "Tala",
+                    "nameAr": "تلا",
+                    "_id": "65286918631dd174b4494ecb"
+                },
+                {
+                    "nameEn": "Al Shohada",
+                    "nameAr": "الشهداء",
+                    "_id": "65286918631dd174b4494ecc"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494ecd",
+            "nameEn": "Minya",
+            "nameAr": "المنيا",
+            "cities": [
+                {
+                    "nameEn": "Minya",
+                    "nameAr": "المنيا",
+                    "_id": "65286918631dd174b4494ece"
+                },
+                {
+                    "nameEn": "Minya El Gedida",
+                    "nameAr": "المنيا الجديدة",
+                    "_id": "65286918631dd174b4494ecf"
+                },
+                {
+                    "nameEn": "El Adwa",
+                    "nameAr": "العدوة",
+                    "_id": "65286918631dd174b4494ed0"
+                },
+                {
+                    "nameEn": "Magagha",
+                    "nameAr": "مغاغة",
+                    "_id": "65286918631dd174b4494ed1"
+                },
+                {
+                    "nameEn": "Bani Mazar",
+                    "nameAr": "بني مزار",
+                    "_id": "65286918631dd174b4494ed2"
+                },
+                {
+                    "nameEn": "Mattay",
+                    "nameAr": "مطاي",
+                    "_id": "65286918631dd174b4494ed3"
+                },
+                {
+                    "nameEn": "Samalut",
+                    "nameAr": "سمالوط",
+                    "_id": "65286918631dd174b4494ed4"
+                },
+                {
+                    "nameEn": "Madinat El Fekria",
+                    "nameAr": "المدينة الفكرية",
+                    "_id": "65286918631dd174b4494ed5"
+                },
+                {
+                    "nameEn": "Meloy",
+                    "nameAr": "ملوي",
+                    "_id": "65286918631dd174b4494ed6"
+                },
+                {
+                    "nameEn": "Deir Mawas",
+                    "nameAr": "دير مواس",
+                    "_id": "65286918631dd174b4494ed7"
+                },
+                {
+                    "nameEn": "Abu Qurqas",
+                    "nameAr": "ابو قرقاص",
+                    "_id": "65286918631dd174b4494ed8"
+                },
+                {
+                    "nameEn": "Ard Sultan",
+                    "nameAr": "ارض سلطان",
+                    "_id": "65286918631dd174b4494ed9"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494eda",
+            "nameEn": "Qaliubiya",
+            "nameAr": "القليوبية",
+            "cities": [
+                {
+                    "nameEn": "Banha",
+                    "nameAr": "بنها",
+                    "_id": "65286918631dd174b4494edb"
+                },
+                {
+                    "nameEn": "Qalyub",
+                    "nameAr": "قليوب",
+                    "_id": "65286918631dd174b4494edc"
+                },
+                {
+                    "nameEn": "Shubra Al Khaimah",
+                    "nameAr": "شبرا الخيمة",
+                    "_id": "65286918631dd174b4494edd"
+                },
+                {
+                    "nameEn": "Al Qanater Charity",
+                    "nameAr": "القناطر الخيرية",
+                    "_id": "65286918631dd174b4494ede"
+                },
+                {
+                    "nameEn": "Khanka",
+                    "nameAr": "الخانكة",
+                    "_id": "65286918631dd174b4494edf"
+                },
+                {
+                    "nameEn": "Kafr Shukr",
+                    "nameAr": "كفر شكر",
+                    "_id": "65286918631dd174b4494ee0"
+                },
+                {
+                    "nameEn": "Tukh",
+                    "nameAr": "طوخ",
+                    "_id": "65286918631dd174b4494ee1"
+                },
+                {
+                    "nameEn": "Qaha",
+                    "nameAr": "قها",
+                    "_id": "65286918631dd174b4494ee2"
+                },
+                {
+                    "nameEn": "Obour",
+                    "nameAr": "العبور",
+                    "_id": "65286918631dd174b4494ee3"
+                },
+                {
+                    "nameEn": "Khosous",
+                    "nameAr": "الخصوص",
+                    "_id": "65286918631dd174b4494ee4"
+                },
+                {
+                    "nameEn": "Shibin Al Qanater",
+                    "nameAr": "شبين القناطر",
+                    "_id": "65286918631dd174b4494ee5"
+                },
+                {
+                    "nameEn": "Mostorod",
+                    "nameAr": "مسطرد",
+                    "_id": "65286918631dd174b4494ee6"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494ee7",
+            "nameEn": "New Valley",
+            "nameAr": "الوادي الجديد",
+            "cities": [
+                {
+                    "nameEn": "El Kharga",
+                    "nameAr": "الخارجة",
+                    "_id": "65286918631dd174b4494ee8"
+                },
+                {
+                    "nameEn": "Paris",
+                    "nameAr": "باريس",
+                    "_id": "65286918631dd174b4494ee9"
+                },
+                {
+                    "nameEn": "Mout",
+                    "nameAr": "موط",
+                    "_id": "65286918631dd174b4494eea"
+                },
+                {
+                    "nameEn": "Farafra",
+                    "nameAr": "الفرافرة",
+                    "_id": "65286918631dd174b4494eeb"
+                },
+                {
+                    "nameEn": "Balat",
+                    "nameAr": "بلاط",
+                    "_id": "65286918631dd174b4494eec"
+                },
+                {
+                    "nameEn": "Dakhla",
+                    "nameAr": "الداخلة",
+                    "_id": "65286918631dd174b4494eed"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494eee",
+            "nameEn": "Suez",
+            "nameAr": "السويس",
+            "cities": [
+                {
+                    "nameEn": "Suez",
+                    "nameAr": "السويس",
+                    "_id": "65286918631dd174b4494eef"
+                },
+                {
+                    "nameEn": "Alganayen",
+                    "nameAr": "الجناين",
+                    "_id": "65286918631dd174b4494ef0"
+                },
+                {
+                    "nameEn": "Ataqah",
+                    "nameAr": "عتاقة",
+                    "_id": "65286918631dd174b4494ef1"
+                },
+                {
+                    "nameEn": "Ain Sokhna",
+                    "nameAr": "العين السخنة",
+                    "_id": "65286918631dd174b4494ef2"
+                },
+                {
+                    "nameEn": "Faysal",
+                    "nameAr": "فيصل",
+                    "_id": "65286918631dd174b4494ef3"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494ef4",
+            "nameEn": "Aswan",
+            "nameAr": "اسوان",
+            "cities": [
+                {
+                    "nameEn": "Aswan",
+                    "nameAr": "أسوان",
+                    "_id": "65286918631dd174b4494ef5"
+                },
+                {
+                    "nameEn": "Aswan El Gedida",
+                    "nameAr": "أسوان الجديدة",
+                    "_id": "65286918631dd174b4494ef6"
+                },
+                {
+                    "nameEn": "Drau",
+                    "nameAr": "دراو",
+                    "_id": "65286918631dd174b4494ef7"
+                },
+                {
+                    "nameEn": "Kom Ombo",
+                    "nameAr": "كوم أمبو",
+                    "_id": "65286918631dd174b4494ef8"
+                },
+                {
+                    "nameEn": "Nasr Al Nuba",
+                    "nameAr": "نصر النوبة",
+                    "_id": "65286918631dd174b4494ef9"
+                },
+                {
+                    "nameEn": "Kalabsha",
+                    "nameAr": "كلابشة",
+                    "_id": "65286918631dd174b4494efa"
+                },
+                {
+                    "nameEn": "Edfu",
+                    "nameAr": "إدفو",
+                    "_id": "65286918631dd174b4494efb"
+                },
+                {
+                    "nameEn": "Al-Radisiyah",
+                    "nameAr": "الرديسية",
+                    "_id": "65286918631dd174b4494efc"
+                },
+                {
+                    "nameEn": "Al Basilia",
+                    "nameAr": "البصيلية",
+                    "_id": "65286918631dd174b4494efd"
+                },
+                {
+                    "nameEn": "Al Sibaeia",
+                    "nameAr": "السباعية",
+                    "_id": "65286918631dd174b4494efe"
+                },
+                {
+                    "nameEn": "Abo Simbl Al Siyahia",
+                    "nameAr": "ابوسمبل السياحية",
+                    "_id": "65286918631dd174b4494eff"
+                },
+                {
+                    "nameEn": "Marsa Alam",
+                    "nameAr": "مرسى علم",
+                    "_id": "65286918631dd174b4494f00"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f01",
+            "nameEn": "Assiut",
+            "nameAr": "اسيوط",
+            "cities": [
+                {
+                    "nameEn": "Assiut",
+                    "nameAr": "أسيوط",
+                    "_id": "65286918631dd174b4494f02"
+                },
+                {
+                    "nameEn": "Assiut El Gedida",
+                    "nameAr": "أسيوط الجديدة",
+                    "_id": "65286918631dd174b4494f03"
+                },
+                {
+                    "nameEn": "Dayrout",
+                    "nameAr": "ديروط",
+                    "_id": "65286918631dd174b4494f04"
+                },
+                {
+                    "nameEn": "Manfalut",
+                    "nameAr": "منفلوط",
+                    "_id": "65286918631dd174b4494f05"
+                },
+                {
+                    "nameEn": "Qusiya",
+                    "nameAr": "القوصية",
+                    "_id": "65286918631dd174b4494f06"
+                },
+                {
+                    "nameEn": "Abnoub",
+                    "nameAr": "أبنوب",
+                    "_id": "65286918631dd174b4494f07"
+                },
+                {
+                    "nameEn": "Abu Tig",
+                    "nameAr": "أبو تيج",
+                    "_id": "65286918631dd174b4494f08"
+                },
+                {
+                    "nameEn": "El Ghanaim",
+                    "nameAr": "الغنايم",
+                    "_id": "65286918631dd174b4494f09"
+                },
+                {
+                    "nameEn": "Sahel Selim",
+                    "nameAr": "ساحل سليم",
+                    "_id": "65286918631dd174b4494f0a"
+                },
+                {
+                    "nameEn": "El Badari",
+                    "nameAr": "البداري",
+                    "_id": "65286918631dd174b4494f0b"
+                },
+                {
+                    "nameEn": "Sidfa",
+                    "nameAr": "صدفا",
+                    "_id": "65286918631dd174b4494f0c"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f0d",
+            "nameEn": "Beni Suef",
+            "nameAr": "بني سويف",
+            "cities": [
+                {
+                    "nameEn": "Bani Sweif",
+                    "nameAr": "بني سويف",
+                    "_id": "65286918631dd174b4494f0e"
+                },
+                {
+                    "nameEn": "Beni Suef El Gedida",
+                    "nameAr": "بني سويف الجديدة",
+                    "_id": "65286918631dd174b4494f0f"
+                },
+                {
+                    "nameEn": "Al Wasta",
+                    "nameAr": "الواسطى",
+                    "_id": "65286918631dd174b4494f10"
+                },
+                {
+                    "nameEn": "Naser",
+                    "nameAr": "ناصر",
+                    "_id": "65286918631dd174b4494f11"
+                },
+                {
+                    "nameEn": "Ehnasia",
+                    "nameAr": "إهناسيا",
+                    "_id": "65286918631dd174b4494f12"
+                },
+                {
+                    "nameEn": "beba",
+                    "nameAr": "ببا",
+                    "_id": "65286918631dd174b4494f13"
+                },
+                {
+                    "nameEn": "Fashn",
+                    "nameAr": "الفشن",
+                    "_id": "65286918631dd174b4494f14"
+                },
+                {
+                    "nameEn": "Somasta",
+                    "nameAr": "سمسطا",
+                    "_id": "65286918631dd174b4494f15"
+                },
+                {
+                    "nameEn": "Alabbaseri",
+                    "nameAr": "الاباصيرى",
+                    "_id": "65286918631dd174b4494f16"
+                },
+                {
+                    "nameEn": "Mokbel",
+                    "nameAr": "مقبل",
+                    "_id": "65286918631dd174b4494f17"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f18",
+            "nameEn": "Port Said",
+            "nameAr": "بورسعيد",
+            "cities": [
+                {
+                    "nameEn": "PorSaid",
+                    "nameAr": "بورسعيد",
+                    "_id": "65286918631dd174b4494f19"
+                },
+                {
+                    "nameEn": "Port Fouad",
+                    "nameAr": "بورفؤاد",
+                    "_id": "65286918631dd174b4494f1a"
+                },
+                {
+                    "nameEn": "Alarab",
+                    "nameAr": "العرب",
+                    "_id": "65286918631dd174b4494f1b"
+                },
+                {
+                    "nameEn": "Zohour",
+                    "nameAr": "حى الزهور",
+                    "_id": "65286918631dd174b4494f1c"
+                },
+                {
+                    "nameEn": "Alsharq",
+                    "nameAr": "حى الشرق",
+                    "_id": "65286918631dd174b4494f1d"
+                },
+                {
+                    "nameEn": "Aldawahi",
+                    "nameAr": "حى الضواحى",
+                    "_id": "65286918631dd174b4494f1e"
+                },
+                {
+                    "nameEn": "Almanakh",
+                    "nameAr": "حى المناخ",
+                    "_id": "65286918631dd174b4494f1f"
+                },
+                {
+                    "nameEn": "Mubarak",
+                    "nameAr": "حى مبارك",
+                    "_id": "65286918631dd174b4494f20"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f21",
+            "nameEn": "Damietta",
+            "nameAr": "دمياط",
+            "cities": [
+                {
+                    "nameEn": "Damietta",
+                    "nameAr": "دمياط",
+                    "_id": "65286918631dd174b4494f22"
+                },
+                {
+                    "nameEn": "New Damietta",
+                    "nameAr": "دمياط الجديدة",
+                    "_id": "65286918631dd174b4494f23"
+                },
+                {
+                    "nameEn": "Ras El Bar",
+                    "nameAr": "رأس البر",
+                    "_id": "65286918631dd174b4494f24"
+                },
+                {
+                    "nameEn": "Faraskour",
+                    "nameAr": "فارسكور",
+                    "_id": "65286918631dd174b4494f25"
+                },
+                {
+                    "nameEn": "Zarqa",
+                    "nameAr": "الزرقا",
+                    "_id": "65286918631dd174b4494f26"
+                },
+                {
+                    "nameEn": "alsaru",
+                    "nameAr": "السرو",
+                    "_id": "65286918631dd174b4494f27"
+                },
+                {
+                    "nameEn": "alruwda",
+                    "nameAr": "الروضة",
+                    "_id": "65286918631dd174b4494f28"
+                },
+                {
+                    "nameEn": "Kafr El-Batikh",
+                    "nameAr": "كفر البطيخ",
+                    "_id": "65286918631dd174b4494f29"
+                },
+                {
+                    "nameEn": "Azbet Al Burg",
+                    "nameAr": "عزبة البرج",
+                    "_id": "65286918631dd174b4494f2a"
+                },
+                {
+                    "nameEn": "Meet Abou Ghalib",
+                    "nameAr": "ميت أبو غالب",
+                    "_id": "65286918631dd174b4494f2b"
+                },
+                {
+                    "nameEn": "Kafr Saad",
+                    "nameAr": "كفر سعد",
+                    "_id": "65286918631dd174b4494f2c"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f2d",
+            "nameEn": "Sharkia",
+            "nameAr": "الشرقية",
+            "cities": [
+                {
+                    "nameEn": "Zagazig",
+                    "nameAr": "الزقازيق",
+                    "_id": "65286918631dd174b4494f2e"
+                },
+                {
+                    "nameEn": "Al Ashr Men Ramadan",
+                    "nameAr": "العاشر من رمضان",
+                    "_id": "65286918631dd174b4494f2f"
+                },
+                {
+                    "nameEn": "Minya Al Qamh",
+                    "nameAr": "منيا القمح",
+                    "_id": "65286918631dd174b4494f30"
+                },
+                {
+                    "nameEn": "Belbeis",
+                    "nameAr": "بلبيس",
+                    "_id": "65286918631dd174b4494f31"
+                },
+                {
+                    "nameEn": "Mashtoul El Souq",
+                    "nameAr": "مشتول السوق",
+                    "_id": "65286918631dd174b4494f32"
+                },
+                {
+                    "nameEn": "Qenaiat",
+                    "nameAr": "القنايات",
+                    "_id": "65286918631dd174b4494f33"
+                },
+                {
+                    "nameEn": "Abu Hammad",
+                    "nameAr": "أبو حماد",
+                    "_id": "65286918631dd174b4494f34"
+                },
+                {
+                    "nameEn": "El Qurain",
+                    "nameAr": "القرين",
+                    "_id": "65286918631dd174b4494f35"
+                },
+                {
+                    "nameEn": "Hehia",
+                    "nameAr": "ههيا",
+                    "_id": "65286918631dd174b4494f36"
+                },
+                {
+                    "nameEn": "Abu Kabir",
+                    "nameAr": "أبو كبير",
+                    "_id": "65286918631dd174b4494f37"
+                },
+                {
+                    "nameEn": "Faccus",
+                    "nameAr": "فاقوس",
+                    "_id": "65286918631dd174b4494f38"
+                },
+                {
+                    "nameEn": "El Salihia El Gedida",
+                    "nameAr": "الصالحية الجديدة",
+                    "_id": "65286918631dd174b4494f39"
+                },
+                {
+                    "nameEn": "Al Ibrahimiyah",
+                    "nameAr": "الإبراهيمية",
+                    "_id": "65286918631dd174b4494f3a"
+                },
+                {
+                    "nameEn": "Deirb Negm",
+                    "nameAr": "ديرب نجم",
+                    "_id": "65286918631dd174b4494f3b"
+                },
+                {
+                    "nameEn": "Kafr Saqr",
+                    "nameAr": "كفر صقر",
+                    "_id": "65286918631dd174b4494f3c"
+                },
+                {
+                    "nameEn": "Awlad Saqr",
+                    "nameAr": "أولاد صقر",
+                    "_id": "65286918631dd174b4494f3d"
+                },
+                {
+                    "nameEn": "Husseiniya",
+                    "nameAr": "الحسينية",
+                    "_id": "65286918631dd174b4494f3e"
+                },
+                {
+                    "nameEn": "san alhajar alqablia",
+                    "nameAr": "صان الحجر القبلية",
+                    "_id": "65286918631dd174b4494f3f"
+                },
+                {
+                    "nameEn": "Manshayat Abu Omar",
+                    "nameAr": "منشأة أبو عمر",
+                    "_id": "65286918631dd174b4494f40"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f41",
+            "nameEn": "South Sinai",
+            "nameAr": "جنوب سيناء",
+            "cities": [
+                {
+                    "nameEn": "Al Toor",
+                    "nameAr": "الطور",
+                    "_id": "65286918631dd174b4494f42"
+                },
+                {
+                    "nameEn": "Sharm El-Shaikh",
+                    "nameAr": "شرم الشيخ",
+                    "_id": "65286918631dd174b4494f43"
+                },
+                {
+                    "nameEn": "Dahab",
+                    "nameAr": "دهب",
+                    "_id": "65286918631dd174b4494f44"
+                },
+                {
+                    "nameEn": "Nuweiba",
+                    "nameAr": "نويبع",
+                    "_id": "65286918631dd174b4494f45"
+                },
+                {
+                    "nameEn": "Taba",
+                    "nameAr": "طابا",
+                    "_id": "65286918631dd174b4494f46"
+                },
+                {
+                    "nameEn": "Saint Catherine",
+                    "nameAr": "سانت كاترين",
+                    "_id": "65286918631dd174b4494f47"
+                },
+                {
+                    "nameEn": "Abu Redis",
+                    "nameAr": "أبو رديس",
+                    "_id": "65286918631dd174b4494f48"
+                },
+                {
+                    "nameEn": "Abu Zenaima",
+                    "nameAr": "أبو زنيمة",
+                    "_id": "65286918631dd174b4494f49"
+                },
+                {
+                    "nameEn": "Ras Sidr",
+                    "nameAr": "رأس سدر",
+                    "_id": "65286918631dd174b4494f4a"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f4b",
+            "nameEn": "Kafr Al sheikh",
+            "nameAr": "كفر الشيخ",
+            "cities": [
+                {
+                    "nameEn": "Kafr El Sheikh",
+                    "nameAr": "كفر الشيخ",
+                    "_id": "65286918631dd174b4494f4c"
+                },
+                {
+                    "nameEn": "Kafr El Sheikh Downtown",
+                    "nameAr": "وسط البلد كفر الشيخ",
+                    "_id": "65286918631dd174b4494f4d"
+                },
+                {
+                    "nameEn": "Desouq",
+                    "nameAr": "دسوق",
+                    "_id": "65286918631dd174b4494f4e"
+                },
+                {
+                    "nameEn": "Fooh",
+                    "nameAr": "فوه",
+                    "_id": "65286918631dd174b4494f4f"
+                },
+                {
+                    "nameEn": "Metobas",
+                    "nameAr": "مطوبس",
+                    "_id": "65286918631dd174b4494f50"
+                },
+                {
+                    "nameEn": "Burg Al Burullus",
+                    "nameAr": "برج البرلس",
+                    "_id": "65286918631dd174b4494f51"
+                },
+                {
+                    "nameEn": "Baltim",
+                    "nameAr": "بلطيم",
+                    "_id": "65286918631dd174b4494f52"
+                },
+                {
+                    "nameEn": "Masief Baltim",
+                    "nameAr": "مصيف بلطيم",
+                    "_id": "65286918631dd174b4494f53"
+                },
+                {
+                    "nameEn": "Hamol",
+                    "nameAr": "الحامول",
+                    "_id": "65286918631dd174b4494f54"
+                },
+                {
+                    "nameEn": "Bella",
+                    "nameAr": "بيلا",
+                    "_id": "65286918631dd174b4494f55"
+                },
+                {
+                    "nameEn": "Riyadh",
+                    "nameAr": "الرياض",
+                    "_id": "65286918631dd174b4494f56"
+                },
+                {
+                    "nameEn": "Sidi Salm",
+                    "nameAr": "سيدي سالم",
+                    "_id": "65286918631dd174b4494f57"
+                },
+                {
+                    "nameEn": "Qellen",
+                    "nameAr": "قلين",
+                    "_id": "65286918631dd174b4494f58"
+                },
+                {
+                    "nameEn": "Sidi Ghazi",
+                    "nameAr": "سيدي غازي",
+                    "_id": "65286918631dd174b4494f59"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f5a",
+            "nameEn": "Matrouh",
+            "nameAr": "مطروح",
+            "cities": [
+                {
+                    "nameEn": "Marsa Matrouh",
+                    "nameAr": "مرسى مطروح",
+                    "_id": "65286918631dd174b4494f5b"
+                },
+                {
+                    "nameEn": "El Hamam",
+                    "nameAr": "الحمام",
+                    "_id": "65286918631dd174b4494f5c"
+                },
+                {
+                    "nameEn": "Alamein",
+                    "nameAr": "العلمين",
+                    "_id": "65286918631dd174b4494f5d"
+                },
+                {
+                    "nameEn": "Dabaa",
+                    "nameAr": "الضبعة",
+                    "_id": "65286918631dd174b4494f5e"
+                },
+                {
+                    "nameEn": "Al-Nagila",
+                    "nameAr": "النجيلة",
+                    "_id": "65286918631dd174b4494f5f"
+                },
+                {
+                    "nameEn": "Sidi Brani",
+                    "nameAr": "سيدي براني",
+                    "_id": "65286918631dd174b4494f60"
+                },
+                {
+                    "nameEn": "Salloum",
+                    "nameAr": "السلوم",
+                    "_id": "65286918631dd174b4494f61"
+                },
+                {
+                    "nameEn": "Siwa",
+                    "nameAr": "سيوة",
+                    "_id": "65286918631dd174b4494f62"
+                },
+                {
+                    "nameEn": "Marina",
+                    "nameAr": "مارينا",
+                    "_id": "65286918631dd174b4494f63"
+                },
+                {
+                    "nameEn": "North Coast",
+                    "nameAr": "الساحل الشمالى",
+                    "_id": "65286918631dd174b4494f64"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f65",
+            "nameEn": "Luxor",
+            "nameAr": "الأقصر",
+            "cities": [
+                {
+                    "nameEn": "Luxor",
+                    "nameAr": "الأقصر",
+                    "_id": "65286918631dd174b4494f66"
+                },
+                {
+                    "nameEn": "New Luxor",
+                    "nameAr": "الأقصر الجديدة",
+                    "_id": "65286918631dd174b4494f67"
+                },
+                {
+                    "nameEn": "Esna",
+                    "nameAr": "إسنا",
+                    "_id": "65286918631dd174b4494f68"
+                },
+                {
+                    "nameEn": "New Tiba",
+                    "nameAr": "طيبة الجديدة",
+                    "_id": "65286918631dd174b4494f69"
+                },
+                {
+                    "nameEn": "Al ziynia",
+                    "nameAr": "الزينية",
+                    "_id": "65286918631dd174b4494f6a"
+                },
+                {
+                    "nameEn": "Al Bayadieh",
+                    "nameAr": "البياضية",
+                    "_id": "65286918631dd174b4494f6b"
+                },
+                {
+                    "nameEn": "Al Qarna",
+                    "nameAr": "القرنة",
+                    "_id": "65286918631dd174b4494f6c"
+                },
+                {
+                    "nameEn": "Armant",
+                    "nameAr": "أرمنت",
+                    "_id": "65286918631dd174b4494f6d"
+                },
+                {
+                    "nameEn": "Al Tud",
+                    "nameAr": "الطود",
+                    "_id": "65286918631dd174b4494f6e"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f6f",
+            "nameEn": "Qena",
+            "nameAr": "قنا",
+            "cities": [
+                {
+                    "nameEn": "Qena",
+                    "nameAr": "قنا",
+                    "_id": "65286918631dd174b4494f70"
+                },
+                {
+                    "nameEn": "New Qena",
+                    "nameAr": "قنا الجديدة",
+                    "_id": "65286918631dd174b4494f71"
+                },
+                {
+                    "nameEn": "Abu Tesht",
+                    "nameAr": "ابو طشت",
+                    "_id": "65286918631dd174b4494f72"
+                },
+                {
+                    "nameEn": "Nag Hammadi",
+                    "nameAr": "نجع حمادي",
+                    "_id": "65286918631dd174b4494f73"
+                },
+                {
+                    "nameEn": "Deshna",
+                    "nameAr": "دشنا",
+                    "_id": "65286918631dd174b4494f74"
+                },
+                {
+                    "nameEn": "Alwaqf",
+                    "nameAr": "الوقف",
+                    "_id": "65286918631dd174b4494f75"
+                },
+                {
+                    "nameEn": "Qaft",
+                    "nameAr": "قفط",
+                    "_id": "65286918631dd174b4494f76"
+                },
+                {
+                    "nameEn": "Naqada",
+                    "nameAr": "نقادة",
+                    "_id": "65286918631dd174b4494f77"
+                },
+                {
+                    "nameEn": "Farshout",
+                    "nameAr": "فرشوط",
+                    "_id": "65286918631dd174b4494f78"
+                },
+                {
+                    "nameEn": "Quos",
+                    "nameAr": "قوص",
+                    "_id": "65286918631dd174b4494f79"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f7a",
+            "nameEn": "North Sinai",
+            "nameAr": "شمال سيناء",
+            "cities": [
+                {
+                    "nameEn": "Arish",
+                    "nameAr": "العريش",
+                    "_id": "65286918631dd174b4494f7b"
+                },
+                {
+                    "nameEn": "Sheikh Zowaid",
+                    "nameAr": "الشيخ زويد",
+                    "_id": "65286918631dd174b4494f7c"
+                },
+                {
+                    "nameEn": "Nakhl",
+                    "nameAr": "نخل",
+                    "_id": "65286918631dd174b4494f7d"
+                },
+                {
+                    "nameEn": "Rafah",
+                    "nameAr": "رفح",
+                    "_id": "65286918631dd174b4494f7e"
+                },
+                {
+                    "nameEn": "Bir al-Abed",
+                    "nameAr": "بئر العبد",
+                    "_id": "65286918631dd174b4494f7f"
+                },
+                {
+                    "nameEn": "Al Hasana",
+                    "nameAr": "الحسنة",
+                    "_id": "65286918631dd174b4494f80"
+                }
+            ]
+        },
+        {
+            "_id": "65286918631dd174b4494f81",
+            "nameEn": "Sohag",
+            "nameAr": "سوهاج",
+            "cities": [
+                {
+                    "nameEn": "Sohag",
+                    "nameAr": "سوهاج",
+                    "_id": "65286918631dd174b4494f82"
+                },
+                {
+                    "nameEn": "Sohag El Gedida",
+                    "nameAr": "سوهاج الجديدة",
+                    "_id": "65286918631dd174b4494f83"
+                },
+                {
+                    "nameEn": "Akhmeem",
+                    "nameAr": "أخميم",
+                    "_id": "65286918631dd174b4494f84"
+                },
+                {
+                    "nameEn": "Akhmim El Gedida",
+                    "nameAr": "أخميم الجديدة",
+                    "_id": "65286918631dd174b4494f85"
+                },
+                {
+                    "nameEn": "Albalina",
+                    "nameAr": "البلينا",
+                    "_id": "65286918631dd174b4494f86"
+                },
+                {
+                    "nameEn": "El Maragha",
+                    "nameAr": "المراغة",
+                    "_id": "65286918631dd174b4494f87"
+                },
+                {
+                    "nameEn": "almunsha'a",
+                    "nameAr": "المنشأة",
+                    "_id": "65286918631dd174b4494f88"
+                },
+                {
+                    "nameEn": "Dar AISalaam",
+                    "nameAr": "دار السلام",
+                    "_id": "65286918631dd174b4494f89"
+                },
+                {
+                    "nameEn": "Gerga",
+                    "nameAr": "جرجا",
+                    "_id": "65286918631dd174b4494f8a"
+                },
+                {
+                    "nameEn": "Jahina Al Gharbia",
+                    "nameAr": "جهينة الغربية",
+                    "_id": "65286918631dd174b4494f8b"
+                },
+                {
+                    "nameEn": "Saqilatuh",
+                    "nameAr": "ساقلته",
+                    "_id": "65286918631dd174b4494f8c"
+                },
+                {
+                    "nameEn": "Tama",
+                    "nameAr": "طما",
+                    "_id": "65286918631dd174b4494f8d"
+                },
+                {
+                    "nameEn": "Tahta",
+                    "nameAr": "طهطا",
+                    "_id": "65286918631dd174b4494f8e"
+                },
+                {
+                    "nameEn": "Alkawthar",
+                    "nameAr": "الكوثر",
+                    "_id": "65286918631dd174b4494f8f"
+                }
+            ]
+        }
+    ]
+}

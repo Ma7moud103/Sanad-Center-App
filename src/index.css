@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Maven+Pro:wght@400;500;600;700&family=Montserrat+Alternates:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Cairo", sans-serif;
+}
+html {
+  background-color: #bdd6e4cc;
+  /* height: 100%; */
+  /* overflow: hidden; */
+}
+
+#reader__scan_region {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* #reader > div:nth-child(1) > img{
+  display: none;
+ } */
+
+#reader {
+  border: none !important;
+  margin: 10px 0;
+}
+
+#html5-qrcode-select-camera,
+#reader > div:nth-child(1) > img,
+#reader__dashboard_section_csr > span:nth-child(2),
+#reader__dashboard_section > div:nth-child(2),
+#html5-qrcode-button-camera-start {
+  display: none !important;
+}
+
+#html5-qrcode-button-camera-stop {
+  color: "#9CA3AFB2" !important;
+  font-weight: bold !important;
+}
+
+/* parent */
+#myDate > div {
+  border-radius: 11px !important;
+  overflow: hidden;
+  background-color: white;
+  border: 1px solid #f4f7fe;
+}
+
+#revDate > div,
+#mGroupStartTime > div,
+#mGroupEndTime > div {
+  border-radius: 11px !important;
+  overflow: hidden;
+  background-color: #f9fafa;
+  border: 1px solid #e6e9ea;
+}
+
+#myDate > div > div,
+#revDate > div > div,
+#mGroupEndTime > div > div,
+#mGroupStartTime > div > div {
+  border: none;
+  border-radius: 11px !important;
+}
+
+#myDate > div > div input,
+#revDate > div > div input ,
+#mGroupEndTime > div > div input,
+#mGroupStartTime > div > div input {
+  padding: 12px;
+  font-size: 12px;
+}
+
+#myDate > div > div input:focus,
+#revDate > div > div input:focus ,
+#mGroupEndTime > div > div input:focus,
+#mGroupStartTime > div > div input:focus {
+  border: none;
+  box-shadow: none;
+  outline: none;
+}
+
+/* @media   (min-width:640px) {
+    #myDate > div{
+border-radius: 11px !important;
+overflow: hidden;
+    border: 1px solid #F4F7FE;
+    
+
+}
+#myDate > div > div{
+      border: none;
+      border-radius: 11px !important;
+
+
+}
+
+#myDate > div > div input{
+  padding: 14px;
+  font-size: 16px;
+}
+#myDate > div > div input:focus{
+    border: none;
+    box-shadow: none;
+    outline: none;
+}
+} */
+
+/* #myDate > div:hover{
+      border: 1px solid #F4F7FE;
+      outline: none;
+      box-shadow: none;
+}
+
+#myDate > div >div:hover{
+      border: 1px solid #F4F7FE;
+      outline: none;
+      box-shadow: none;
+} */
