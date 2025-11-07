@@ -1,0 +1,27 @@
+{
+  "short_name": "Sanad Center",
+  "name": "Sanad Center WebApp",
+  "description": "A comprehensive web application for tutors to manage their courses and communicate with students effectively.",
+
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#023E8ACC",
+  "background_color": "#ffffff"
+}
