@@ -75,6 +75,9 @@ export default function Login() {
 		});
 	}
 
+	//    /^(?=\S*[\d])(?=\S*[$!@%&_])\S{8,30}$/
+	// /(^(?=\S*[\d])(?=\S*[$!@%&_])\S{8,30}$)|(^[A-Za-z0-9_-]{8}$)/
+
 	const LoginValidation = Yup.object({
 		emailOrCode: Yup.string()
 			.required(t('Login.emailErorrRequired'))
@@ -93,8 +96,8 @@ export default function Login() {
 
 	const LoginFormik = useFormik({
 		initialValues: {
-			emailOrCode: 'CO00001',
-			password: 'sanad@123',
+			emailOrCode: '',
+			password: '',
 		},
 		validationSchema: LoginValidation,
 
