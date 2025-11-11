@@ -110,7 +110,6 @@ export default function Register() {
         delete formData["profileImage"];
         delete formData["phoneNumber"];
         delete formData["address"];
-        console.log(formData)
 
         try {
             setAuthLoading(prev => {
@@ -133,9 +132,11 @@ export default function Register() {
 
             }
         } catch (error) {
+        console.log(error)
 
 
-            if (error.response.data.message === "email already exists") {
+
+            if (error?.response?.data?.message === "email already exists") {
                 ErorrMessage(t("Errors.email2"), "success");
                 localStorage.setItem("step", 0)
                 setstep(0)

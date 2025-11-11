@@ -109,6 +109,8 @@ export default function Login() {
 					values
 				);
 
+				console.log(response);
+
 				if (
 					response.data.status === 'success' ||
 					response.status === 200 ||
@@ -208,9 +210,9 @@ export default function Login() {
 
 	return (
 		<>
-			<div dir={direction} className="h-screen w-screen">
-				<div className=" static sm:relative h-full flex justify-center items-center lg:p-2 overflow-hidden">
-					<div className="absolute  end-6 top-6 ">
+			<div dir={direction} className="w-screen h-screen">
+				<div className="static flex items-center justify-center h-full overflow-hidden sm:relative lg:p-2">
+					<div className="absolute end-6 top-6 ">
 						<BtnToggleLang />
 					</div>
 
@@ -223,7 +225,7 @@ export default function Login() {
 								<BtnToggleLang />
 							</div>
 
-							<div className="title-content flex flex-col justify-center sm:mt-8 items-center gap-y-4">
+							<div className="flex flex-col items-center justify-center title-content sm:mt-8 gap-y-4">
 								<h1 className=" text-mainColor font-semibold text-[35px] sm:text-5xl  text-nowrap text-center">
 									{t('Login.welcomeMessage')}
 								</h1>
@@ -232,9 +234,9 @@ export default function Login() {
 								</p>
 							</div>
 
-							<div className=" inputs  flex flex-col justify-center items-center  gap-y-4 w-full">
-								<div className="email or code flex flex-col w-full">
-									<div className="emailOrCode flex flex-col w-full gap-y-2">
+							<div className="flex flex-col items-center justify-center w-full inputs gap-y-4">
+								<div className="flex flex-col w-full email or code">
+									<div className="flex flex-col w-full emailOrCode gap-y-2">
 										<label
 											htmlFor="emailOrCode"
 											className={`text-mainColor w-full text-start font-semibold text-size_12 relative`}
@@ -262,7 +264,7 @@ export default function Login() {
 
 										{LoginFormik.errors.emailOrCode &&
 											LoginFormik.touched.emailOrCode ? (
-											<div className="flex items-center gap-x-2  mb-3">
+											<div className="flex items-center mb-3 gap-x-2">
 												<span className="w-[5px] h-[5px] bg-[#E4363DE8]"></span>
 												<p className="text-[#E4363DE8]  text-size_12   ">
 													{LoginFormik.errors.emailOrCode}
@@ -272,15 +274,15 @@ export default function Login() {
 									</div>
 								</div>
 
-								<div className="pass flex flex-col w-full gap-y-2">
+								<div className="flex flex-col w-full pass gap-y-2">
 									<label
 										htmlFor="password"
-										className="text-mainColor w-full text-start font-semibold text-size_12 relative"
+										className="relative w-full font-semibold text-mainColor text-start text-size_12"
 									>
 										{t('Login.password')}
 									</label>
 
-									<div className=" relative">
+									<div className="relative ">
 										<input
 											className={` px-6 ${LoginFormik.errors.password &&
 												LoginFormik.touched.password
@@ -317,7 +319,7 @@ export default function Login() {
 
 									{LoginFormik.errors.password &&
 										LoginFormik.touched.password ? (
-										<div className="flex items-center gap-x-2  mb-3">
+										<div className="flex items-center mb-3 gap-x-2">
 											<span className="w-[5px] h-[5px] bg-[#E4363DE8] text-[#E4363DE8]"></span>
 											<p className="text-[#E4363DE8] text-size_12   ">
 												{LoginFormik.errors.password}
@@ -327,8 +329,8 @@ export default function Login() {
 
 									{/* remember me */}
 
-									<div className="rememberMe  cursor-pointer remember-me flex items-center justify-between">
-										<div className="checkbox flex items-center cursor-pointer">
+									<div className="flex items-center justify-between cursor-pointer rememberMe remember-me">
+										<div className="flex items-center cursor-pointer checkbox">
 											<input
 												className="mx-1 outline-mainColor focus:border-mainColor focus:outline-mainColor border-[#BDC4CD] border-[1px] rounded-lg w-[20px] h-[20px] text-mainColor checked:bg-mainColor checked:text-mainColor checked:shadow-none cursor-pointer"
 												id="remember"
@@ -339,14 +341,14 @@ export default function Login() {
 											/>
 											<label
 												htmlFor="remember"
-												className="text-mainColor font-semibold text-xs sm:text-sm "
+												className="text-xs font-semibold text-mainColor sm:text-sm "
 											>
 												{t('Login.rememberMe')}
 											</label>
 										</div>
 										<Link
 											to="/forget-password"
-											className="text-mainColor hover:underline font-semibold text-size_12 sm:text-size__14"
+											className="font-semibold text-mainColor hover:underline text-size_12 sm:text-size__14"
 										>
 											{t('Login.forgetPassword')}
 										</Link>
@@ -354,7 +356,7 @@ export default function Login() {
 								</div>
 							</div>
 
-							<div className=" buttons flex flex-col justify-center items-center w-full sm:mb-8 my-1   ">
+							<div className="flex flex-col items-center justify-center w-full my-1 buttons sm:mb-8">
 								<button
 									type="submit"
 									// disabled={!LoginFormik.dirty}
@@ -374,12 +376,12 @@ export default function Login() {
 									)}
 								</button>
 
-								<div className="my-2 cursor-pointer text-center text-size__14 ">
+								<div className="my-2 text-center cursor-pointer text-size__14 ">
 									<p>
 										{t('Login.noAccount')}
 										<Link
 											to={'/signup'}
-											className="text-mainColor underline hover:no-underline text-size__14 "
+											className="underline text-mainColor hover:no-underline text-size__14 "
 										>
 											{t('Login.signUpNow')}
 										</Link>{' '}
