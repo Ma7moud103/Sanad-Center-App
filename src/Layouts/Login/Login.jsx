@@ -93,8 +93,8 @@ export default function Login() {
 
 	const LoginFormik = useFormik({
 		initialValues: {
-			emailOrCode: '',
-			password: '',
+			emailOrCode: 'CO00001',
+			password: 'sanad@123',
 		},
 		validationSchema: LoginValidation,
 
